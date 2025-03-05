@@ -30,7 +30,6 @@ A convenient CLI tool for exporting all Kubernetes resources configurations from
 Before you begin, ensure you have the following installed:
 
 - `kubectl` - Kubernetes command-line tool
-- `yq` (v4.x) - YAML processor
 - `bash` 4.0+
 
 ## 🚀 Installation
